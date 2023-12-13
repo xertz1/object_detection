@@ -1,2 +1,2 @@
 # object_detection
-# To run this code you will need a yolo.cfg file and a yolov3.weights 
+# To run this code you will need both yolo.cfg and yolov3.weights. 
